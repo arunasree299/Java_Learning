@@ -9,6 +9,7 @@
 - Web MVC framework for building web applications
 **Problem with using Spring Framework alone**
   Basically, Spring-based applications have a lot of configurations.
+  
 ***For example:***
 When we develop Spring MVC web application using Spring MVC then we need to configure:
 Component scan, Dispatcher Servlet, View resolver, Web jars(for delivering static content) amongother things.
